@@ -133,5 +133,63 @@ x, y = y, x  # Now x is 10 and y is 5
 
 ---
 
+## 📝 Practice Problems
+
+Try these problems to test your understanding of Python variables and data types:
+
+### Beginner
+
+1. **Simple Assignment**  
+   Assign your name to a variable and print it.
+
+2. **Sum of Two Numbers**  
+   Take two numbers as input, store them in variables, and print their sum.
+
+3. **Type Checking**  
+   Assign a value to a variable and print its type using `type()`.
+
+4. **Boolean Variable**  
+   Create a variable that stores whether you are a student (`True` or `False`) and print it.
+
+5. **Multiple Assignment**  
+   Assign values to three variables in a single line and print them.
+
+### Intermediate
+
+6. **Swapping Variables**  
+   Swap the values of two variables and print the result.
+
+7. **String Formatting**  
+   Store your name and age in variables and print a sentence like:  
+   `"My name is Alice and I am 25 years old."`
+
+8. **List Operations**  
+   Create a list of three favorite fruits and print the second fruit.
+
+9. **Dictionary Usage**  
+   Create a dictionary to store a student's name, age, and grade. Print the dictionary.
+
+10. **Tuple Unpacking**  
+    Assign a tuple of three numbers to a variable and unpack them into three separate variables.
+
+### Advanced
+
+11. **Type Conversion**  
+    Take a string input of a number, convert it to an integer, and print the result and its type.
+
+12. **Set Operations**  
+    Create two sets of numbers and print their union and intersection.
+
+13. **Nested Data Structures**  
+    Create a dictionary where the value is a list (e.g., a student and their grades). Print the grades.
+
+14. **NoneType Variable**  
+    Create a variable with value `None` and check its type.
+
+15. **Complex Number**  
+    Create a variable to store a complex number and print its real and imaginary parts.
+
+---
+
 **Summary:**  
 Variables are fundamental in Python for storing and manipulating data. Understanding variable types and naming rules is essential for writing clear and effective Python code.
