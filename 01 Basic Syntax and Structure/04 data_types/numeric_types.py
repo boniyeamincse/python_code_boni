@@ -31,3 +31,4 @@ print ("Addition of integer and float is: ", var1 + var2)
 print ("Addition of integer and complex is: ", var1 + var3)
 print ("Addition of float and complex is: ", var2 + var3)
 
+print ("\n------------------------- ----------------------------------------------\n ")
